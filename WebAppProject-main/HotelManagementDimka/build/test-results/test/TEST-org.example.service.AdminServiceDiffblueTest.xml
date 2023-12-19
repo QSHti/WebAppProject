@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.service.AdminServiceDiffblueTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-19T07:04:16" hostname="DIMROG" time="0.099">
+  <properties/>
+  <testcase name="testDeleteAdmin()" classname="org.example.service.AdminServiceDiffblueTest" time="0.077"/>
+  <testcase name="testCreateAdmin()" classname="org.example.service.AdminServiceDiffblueTest" time="0.012"/>
+  <testcase name="testGetAdminByUsername()" classname="org.example.service.AdminServiceDiffblueTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
