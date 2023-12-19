@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.service.AdminServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-13T05:08:28" hostname="DIMROG" time="1.191">
-  <properties/>
-  <testcase name="createAdmin_ShouldReturnSavedAdmin()" classname="org.example.service.AdminServiceTest" time="1.191"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
