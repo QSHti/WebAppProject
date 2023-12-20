@@ -10,5 +10,4 @@ import java.util.List;
 public interface RoomRepo extends CrudRepository<Room, Long> {
     List<Room> findAllByIdNotIn(List<Long> reservedRoomIds);
 
-//    Iterable<Room> findByIsAvailable(boolean isAvailable);
 }
