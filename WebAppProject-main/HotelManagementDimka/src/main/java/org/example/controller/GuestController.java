@@ -38,7 +38,7 @@ public class GuestController {
     return ResponseEntity.ok(guest);
   }
 
-  @DeleteMapping("/delete/{id}")
+  @DeleteMapping("/{id}")
   public ResponseEntity<Void> deleteGuest(@PathVariable Long id) {
     guestService.deleteGuest(id);
     return ResponseEntity.ok().build();
